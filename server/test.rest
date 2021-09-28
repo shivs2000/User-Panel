@@ -1,0 +1,10 @@
+Post http://localhost:5000/createUser HTTP/1.1 
+content-type: application/json
+
+{
+   "username":"shivam_20_wee",
+   "firstname":"shivam",
+   "lastname":"singh",
+   "password":"hello1234",
+   "email":"singhshiva@gmail.com"
+}
